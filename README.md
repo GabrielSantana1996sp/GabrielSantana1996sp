@@ -6,5 +6,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-###  GitHub Stats
+### GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantana1996sp&layout=compact&langs_count=8)
