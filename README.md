@@ -19,5 +19,5 @@
 
 ---
 
-## 📅 GitHub Charts
+##  GitHub Charts
 [![GitHub Charts](https://ghchart.rshah.org/GabrielSantana1996sp)](https://ghchart.rshah.org/GabrielSantana1996sp)
